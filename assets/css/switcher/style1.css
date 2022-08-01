@@ -1,0 +1,63 @@
+#style-switcher h2 a { background: #fff none repeat scroll 0 0 }
+#style-switcher h2 a i {color: #f9461d;}
+.status-mes{
+	border-top: 8px solid #f9461d;
+	border-right: 8px solid #f9461d;
+	border-bottom: 8px solid #f9461d;	
+}
+.navbar-light .navbar-nav > li a:focus, 
+.navbar-light .navbar-nav > li a:hover,
+.home-slider .slick-prev:before, 
+.home-slider .slick-next:before,
+.single-choose i,
+.single-project-complete h2,
+.testimonial .post,
+.tour_duration,
+.footer-menu li a:hover, 
+.footer-menu li a:focus,
+.single_blog h4 a:hover {
+	color: #f9461d !important;
+}
+
+.btn-home-bg,
+.gallery_enlarge_icon,
+.pack_image .btn-bg{
+	background-color: #f9461d;
+	border-color: #f9461d;
+}
+
+.btn-contact-bg{
+	background-color: #f9461d !important;
+	border-color: #f9461d !important;
+}
+.form-control:focus{
+	border-color: #f9461d!important;
+}
+.section-title span,
+.single-deal figure p a,
+.pack_price,
+.single_gallery h4,
+.post_date,
+.contact_address i,
+.topcontrol,
+.owl-theme .owl-controls .owl-buttons div, 
+.slick-prev.slick-arrow, 
+.slick-next.slick-arrow,
+.service .icon,
+.section-title span:before,
+.section-title span:after{
+	background-color: #f9461d ;
+}
+.service .icon{
+	text-shadow: #cd320e 1px 1px, #cd320e 2px 2px, #cd320e 3px 3px, #cd320e 4px 4px, #cd320e 5px 5px, #cd320e 6px 6px, #cd320e 7px 7px, #cd320e 8px 8px, #cd320e 9px 9px, #cd320e 10px 10px, #cd320e 11px 11px, #cd320e 12px 12px, #cd320e 13px 13px, #cd320e 14px 14px, #cd320e 15px 15px, #cd320e 16px 16px, #cd320e 17px 17px, #cd320e 18px 18px, #cd320e 19px 19px, #cd320e 20px 20px, #cd320e 21px 21px, #cd320e 22px 22px, #cd320e 23px 23px, #cd320e 24px 24px, #cd320e 25px 25px, #cd320e 26px 26px, #cd320e 27px 27px, #cd320e 28px 28px, #cd320e 29px 29px, #cd320e 30px 30px, #cd320e 31px 31px, #cd320e 32px 32px, #cd320e 33px 33px, #cd320e 34px 34px, #cd320e 35px 35px, #cd320e 36px 36px, #cd320e 37px 37px, #cd320e 38px 38px, #cd320e 39px 39px, #cd320e 40px 40px, #cd320e 41px 41px, #cd320e 42px 42px, #cd320e 43px 43px, #cd320e 44px 44px, #cd320e 45px 45px, #cd320e 46px 46px, #cd320e 47px 47px, #cd320e 48px 48px, #cd320e 49px 49px, #cd320e 50px 50px, #cd320e 51px 51px, #cd320e 52px 52px, #cd320e 53px 53px, #cd320e 54px 54px, #cd320e 55px 55px, #cd320e 56px 56px, #cd320e 57px 57px, #cd320e 58px 58px, #cd320e 59px 59px, #cd320e 60px 60px, #cd320e 61px 61px, #cd320e 62px 62px, #cd320e 63px 63px, #cd320e 64px 64px, #cd320e 65px 65px, #cd320e 66px 66px, #cd320e 67px 67px, #cd320e 68px 68px, #cd320e 69px 69px, #cd320e 70px 70px, #cd320e 71px 71px, #cd320e 72px 72px, #cd320e 73px 73px, #cd320e 74px 74px, #cd320e 75px 75px, #cd320e 76px 76px, #cd320e 77px 77px, #cd320e 78px 78px, #cd320e 79px 79px, #cd320e 80px 80px, #cd320e 81px 81px, #cd320e 82px 82px, #cd320e 83px 83px, #cd320e 84px 84px, #cd320e 85px 85px, #cd320e 86px 86px, #cd320e 87px 87px, #cd320e 88px 88px, #cd320e 89px 89px, #cd320e 90px 90px, #cd320e 91px 91px, #cd320e 92px 92px, #cd320e 93px 93px, #cd320e 94px 94px, #cd320e 95px 95px, #cd320e 96px 96px, #cd320e 97px 97px, #cd320e 98px 98px, #cd320e 99px 99px, #cd320e 40px 100px;	
+}
+.btn-bg:hover, 
+.btn-bg:focus, 
+.single-deal figure p a:hover, 
+.single-deal figure p a:focus,
+.gallery_enlarge_icon:hover,
+.btn-contact-bg:hover,
+.btn-contact-bg:focus {
+	background: #e1330b !important;
+	border-color: #e1330b !important;
+}
